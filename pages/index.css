@@ -1,5 +1,6 @@
 @import url(../vendor/normalize.css);
 @import url(../blocks/page/page.css);
+@import url(../blocks/content/content.css);
 @import url(../blocks/rotation/rotation.css);
 @import url(../blocks/links-opacity/links-opacity.css);
 @import url(../blocks/header/header.css);
@@ -51,7 +52,7 @@
 @import url(../blocks/feynman/__link/feynman__link.css);
 @import url(../blocks/khan/khan.css);
 @import url(../blocks/content/__khan/content__khan.css);
-@import url(../blocks/khan/__author/);
+@import url(../blocks/khan/__author/khan__author.css);
 @import url(../blocks/khan/__book-container/khan__book-container.css);
 @import url(../blocks/khan/__book-pic/khan__book-pic.css);
 @import url(../blocks/khan/__buy-link/khan__buy-link.css);
@@ -67,6 +68,7 @@
 @import url(../blocks/content/__resources/content__resources.css);
 @import url(../blocks/resources/__link/resources__link.css);
 @import url(../blocks/resources/__logo-zone/resources__logo-zone.css);
+@import url(../blocks/resources/__logo/resources__logo.css);
 @import url(../blocks/footer/footer.css);
 @import url(../blocks/footer/__author/footer__author.css);
 @import url(../blocks/footer/__column-heading/footer__column-heading.css);
